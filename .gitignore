@@ -4,8 +4,4 @@
 .vscode/launch.json
 .vscode/ipch
 
-# AI tool directories
-.claude/
-.cursor/
-.aider*
-CLAUDE.md
+
